@@ -24,7 +24,7 @@ This project implements a profile card component using HTML for the structure an
 
 ## Screenshots
 
-![Screenshot 1](./design/desktop-preview.jpg)
+![Screenshot 1](./design/desktop-design.jpg)
 ![Screenshot 2](./design/mobile-design.jpg)
 
 ## How to Use
